@@ -1,0 +1,58 @@
+0.0: Amir Adl
+0.1: Andrei Bogdan
+ERROR(Nothing) on row: 1
+ERROR(Nothing) on row: 2
+ERROR(Nothing) on row: 3
+ERROR(Nothing) on row: 4
+ERROR(Nothing) on row: 5
+6.0: Gica Bossu
+6.1: George Cristian
+ERROR(Nothing) on row: 7
+ERROR(Nothing) on row: 8
+ERROR(Nothing) on row: 9
+ERROR(Nothing) on row: 10
+ERROR(Nothing) on row: 11
+12.0: Mircea Ionescu
+12.1: Mihai Alexandru
+ERROR(Nothing) on row: 13
+ERROR(Nothing) on row: 14
+ERROR(Nothing) on row: 15
+ERROR(Nothing) on row: 16
+ERROR(Nothing) on row: 17
+ERROR(Nothing) on row: 18
+ERROR(Nothing) on row: 19
+ERROR(Nothing) on row: 20
+ERROR(Nothing) on row: 21
+ERROR(Nothing) on row: 22
+ERROR(Nothing) on row: 23
+ERROR(Nothing) on row: 24
+ERROR(Nothing) on row: 25
+Yes, row: 12, place: 1
+No
+0.0: Amir Adl
+0.1: Andrei Bogdan
+ERROR(Nothing) on row: 1
+ERROR(Nothing) on row: 2
+ERROR(Nothing) on row: 3
+ERROR(Nothing) on row: 4
+ERROR(Nothing) on row: 5
+6.0: Gica Bossu
+ERROR(Nothing) on row: 7
+ERROR(Nothing) on row: 8
+ERROR(Nothing) on row: 9
+ERROR(Nothing) on row: 10
+ERROR(Nothing) on row: 11
+12.0: Mircea Ionescu
+ERROR(Nothing) on row: 13
+ERROR(Nothing) on row: 14
+ERROR(Nothing) on row: 15
+ERROR(Nothing) on row: 16
+ERROR(Nothing) on row: 17
+ERROR(Nothing) on row: 18
+ERROR(Nothing) on row: 19
+ERROR(Nothing) on row: 20
+ERROR(Nothing) on row: 21
+ERROR(Nothing) on row: 22
+ERROR(Nothing) on row: 23
+ERROR(Nothing) on row: 24
+ERROR(Nothing) on row: 25

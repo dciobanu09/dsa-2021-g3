@@ -1,5 +1,5 @@
-# Lab X
+ Lab 06
 
-> Edit this file and describe in a few words what you've done in this lab.
+We have learned interesting things about hash tables and stuff related to that, such as the block chain way of working.
 
 
