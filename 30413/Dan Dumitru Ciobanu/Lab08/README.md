@@ -1,5 +1,5 @@
-# Lab X
+ Lab 08
 
-> Edit this file and describe in a few words what you've done in this lab.
+In this lab we have learned about the way greedy algorithms work and the way to implement some, also why they are useful. 
 
 
