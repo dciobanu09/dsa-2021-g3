@@ -1,5 +1,6 @@
-# Lab X
+Lab 9
 
-> Edit this file and describe in a few words what you've done in this lab.
+In this lab, we have learned about divide and conquer strategy of solving problems and the way it might help us.
+Solved the mandatory problem.
 
 

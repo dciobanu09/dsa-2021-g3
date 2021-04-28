@@ -1,0 +1,1 @@
+The biggest contiguous sum in the given array is 37 .
